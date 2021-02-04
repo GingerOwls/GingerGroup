@@ -13,6 +13,9 @@ Shreya Shrotriya
 Medha Tiwari 
 Kirti
 
+
+Pranavi Tadivalasa
+
 Jyoti Mathur
 
 Priyamvada Priyadarshani
@@ -22,3 +25,4 @@ Bhabya Bani
 Ragavula Nandini
 
 Lasya Sree
+
