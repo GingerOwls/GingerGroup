@@ -1,4 +1,4 @@
-# CodeIt
+
 
 Add Your Name to Read Me!
 
@@ -10,7 +10,8 @@ Anjali Sahu
 
 Shreya Shrotriya
 
-Medha Tiwari Kirti
+Medha Tiwari 
+Kirti
 
 
 Pranavi Tadivalasa
@@ -23,4 +24,5 @@ Bhabya Bani
 
 Ragavula Nandini
 
+Lasya Sree
 
