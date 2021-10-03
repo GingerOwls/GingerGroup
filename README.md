@@ -21,6 +21,8 @@ Priyamvada Priyadarshani
 
 Bhabya Bani
 
+Supriya Patidar
+
 Ragavula Nandini
 
 Lasya Sree
